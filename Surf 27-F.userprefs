@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Tools\SceneLoader.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="152" Column="32" />
+      <File FileName="Assets\Scripts\_Ads\AddManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\_UI\Panels\DeadPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\_UI\Panels\LifePanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\_UI\PanelController.cs" Line="54" Column="4" />
+      <File FileName="Assets\Scripts\Items\AbsItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tools\SceneLoader.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

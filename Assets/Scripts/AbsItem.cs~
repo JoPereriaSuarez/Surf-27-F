@@ -1,0 +1,32 @@
+﻿using UnityEngine;
+using System.Collections;
+
+[RequireComponent(typeof(Collider2D))]
+public abstract class AbsItem : MonoBehaviour
+{
+	protected float moveSpeed = 5F;
+	private float screenWidth;
+
+	// Do sometthing when this item collide with the player
+	protected abstract void OnInteract(Character character);
+
+	protected virtual void Start()
+	{
+		screenWidth = -((Camera.main.orthographicSize * Camera.main.aspect) * 2);
+	}
+
+	void Update()
+	{
+		if(transform.position.x < screenWidth)
+		{
+			GameObject.Destroy(this.gameObject);
+		}
+		transform.Translate(Vector2.left * Time.deltaTime * moveSpeed);
+	}
+	void OnCollisionEnter2D(Collider2D other)
+	{
+		print("collide");
+		OnInteract(other.GetComponent<Character>());
+	}
+}
+

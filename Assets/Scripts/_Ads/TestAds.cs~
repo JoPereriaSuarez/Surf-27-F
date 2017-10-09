@@ -1,0 +1,26 @@
+﻿using UnityEngine;
+using UnityEngine.Advertisements;
+using System.Collections;
+
+public class TestAds : MonoBehaviour
+{
+	void Start ()
+	{
+		if(!Advertisement.isInitialized)
+		{
+			Advertisement.Initialize("1427002", true);
+		}
+
+		ShowOptions options = new ShowOptions();
+	}
+
+	void Update()
+	{
+		if(Advertisement.IsReady() == true  && Advertisement.isShowing == false)
+		{
+			Advertisement.Show();
+		}
+	}
+
+}
+

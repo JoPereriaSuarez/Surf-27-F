@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Mis Juegos/Proyecto Educativo/Assets/Scenes/Mision1.unity
+  isLoaded: 1
+  isActive: 1

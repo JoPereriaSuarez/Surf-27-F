@@ -1,0 +1,135 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   9.17.10.4229
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.845 seconds
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Liz\Downloads\Surf 27F v 0.1\S27F 1.5_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.310555 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.416491 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 421.
+Total: 2.534528 ms (FindLiveObjects: 0.066466 ms CreateObjectMapping: 0.066466 ms MarkObjects: 0.585003 ms  DeleteObjects: 1.815125 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.407039 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 737.
+Total: 1.233542 ms (FindLiveObjects: 0.148083 ms CreateObjectMapping: 0.172031 ms MarkObjects: 0.876284 ms  DeleteObjects: 0.035188 ms)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pierdes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.935283 ms
+
+Unloading 259 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 7.223357 ms (FindLiveObjects: 0.169587 ms CreateObjectMapping: 0.178873 ms MarkObjects: 0.767787 ms  DeleteObjects: 6.104176 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.396776 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 770.
+Total: 1.113315 ms (FindLiveObjects: 0.144173 ms CreateObjectMapping: 0.154925 ms MarkObjects: 0.783426 ms  DeleteObjects: 0.028834 ms)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NO muere gatito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pierdes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.252045 ms
+
+Unloading 259 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 6.571886 ms (FindLiveObjects: 0.091391 ms CreateObjectMapping: 0.111429 ms MarkObjects: 0.719403 ms  DeleteObjects: 5.648684 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1634 -> priority: 1 

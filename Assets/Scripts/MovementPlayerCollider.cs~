@@ -1,0 +1,35 @@
+﻿using UnityEngine;
+using System.Collections;
+
+[RequireComponent(typeof(BoxCollider2D))]
+public abstract class MovementPlayerCollider : MonoBehaviour
+{
+	protected Character _char;
+
+	void Start()
+	{
+		_char = FindObjectOfType<Character>();
+		print(_char.gameObject.name);
+	}
+
+	protected abstract void OnCollide();
+	protected abstract void OnCollideExit();
+
+	void OnColliderEnter2D(Collision2D other)
+	{
+		if(other.collider.tag == "Player")
+		{
+			print("Player collides " + other.gameObject.name);
+			OnCollide();
+		}
+	}
+	void OnColliderExit2D(Collision2D other)
+	{
+		if(other.collider.tag == "Player")
+		{
+			print("Player collides " + other.gameObject.name);
+			OnCollideExit();
+		}
+	}
+}
+

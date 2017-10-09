@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+
+public class MyChoose<T>
+{
+	T value;
+
+	// Constructors
+	public MyChoose(List<T> theList)
+	{
+		int index = UnityEngine.Random.Range(0, theList.Capacity);
+		value = theList[index];
+	}
+	public MyChoose(T[] theArray)
+	{
+		List<T> theList = new List<T>(theArray);
+		int index = UnityEngine.Random.Range(0, theList.Capacity);
+		value = theList[index];
+	}
+
+	public T GetValue()
+	{
+		return value;
+	}
+}

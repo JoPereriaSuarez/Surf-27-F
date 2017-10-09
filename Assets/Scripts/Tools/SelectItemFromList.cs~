@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SelectItemFromList <T>
+{
+	public SelectItemFromList(int capacity)
+	{
+		List<T> theList = new List<T>(capacity);
+		while(theList.Capacity > 0)
+		{
+			int index = UnityEngine.Random.Range(0,theList.Capacity);
+			theList.Remove(theList[index]);
+			theList.TrimExcess();
+		}
+	}
+}
+

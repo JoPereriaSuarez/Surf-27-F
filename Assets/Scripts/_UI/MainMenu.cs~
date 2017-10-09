@@ -1,0 +1,30 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using System.Collections;
+
+public class MainMenuInGame : MonoBehaviour
+{
+	public void StartGame()
+	{
+		print("start");
+		SceneManager.LoadScene("Level00", LoadSceneMode.Single);
+	}
+
+	public void ShowCredits()
+	{
+		print("credits");
+	}
+
+	public void ShowInstructions()
+	{
+		print("instructions");
+	}
+
+	public void ExitGame()
+	{
+		print("exit");
+		Application.Quit();
+	}
+}
+

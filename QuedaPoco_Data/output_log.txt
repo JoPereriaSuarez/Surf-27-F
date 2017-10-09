@@ -1,0 +1,394 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   9.17.10.4229
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.173 seconds
+Platform assembly: D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Mis Juegos\Surf 27-F\QuedaPoco_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.568185 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.930212 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 773.
+Total: 0.775118 ms (FindLiveObjects: 0.064511 ms CreateObjectMapping: 0.063045 ms MarkObjects: 0.617260 ms  DeleteObjects: 0.028834 ms)
+
+IS DEEEEEAAAD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+time 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.214213 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 773.
+Total: 3.120024 ms (FindLiveObjects: 0.175941 ms CreateObjectMapping: 0.163234 ms MarkObjects: 2.563365 ms  DeleteObjects: 0.215527 ms)
+
+IS DEEEEEAAAD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+time 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.084144 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 773.
+Total: 2.131332 ms (FindLiveObjects: 0.182294 ms CreateObjectMapping: 0.172520 ms MarkObjects: 1.673396 ms  DeleteObjects: 0.101654 ms)
+
+IS DEEEEEAAAD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+time 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.373740 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 773.
+Total: 1.177828 ms (FindLiveObjects: 0.097256 ms CreateObjectMapping: 0.097745 ms MarkObjects: 0.885570 ms  DeleteObjects: 0.096278 ms)
+
+start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.063399 ms
+
+Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 20.359819 ms (FindLiveObjects: 0.045940 ms CreateObjectMapping: 0.055225 ms MarkObjects: 0.301054 ms  DeleteObjects: 19.957108 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.394822 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.758502 ms (FindLiveObjects: 0.065000 ms CreateObjectMapping: 0.086504 ms MarkObjects: 0.591846 ms  DeleteObjects: 0.014173 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.686170 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.602109 ms (FindLiveObjects: 0.061579 ms CreateObjectMapping: 0.049361 ms MarkObjects: 0.460868 ms  DeleteObjects: 0.028346 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.540463 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.601132 ms (FindLiveObjects: 0.050338 ms CreateObjectMapping: 0.060113 ms MarkObjects: 0.476996 ms  DeleteObjects: 0.012706 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.779938 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 1.132865 ms (FindLiveObjects: 0.095790 ms CreateObjectMapping: 0.105564 ms MarkObjects: 0.768276 ms  DeleteObjects: 0.161768 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 19a4 -> priority: 1 
+  Thread -> id: 19a0 -> priority: 1 

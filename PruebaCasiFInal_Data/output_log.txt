@@ -1,0 +1,78 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   9.17.10.4229
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.219 seconds
+Platform assembly: D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Mis Juegos\Surf 27-F\PruebaCasiFInal_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.006976 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.893436 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 773.
+Total: 1.708578 ms (FindLiveObjects: 0.139286 ms CreateObjectMapping: 0.110451 ms MarkObjects: 1.407524 ms  DeleteObjects: 0.049849 ms)
+
+time 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.089641 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 773.
+Total: 2.159182 ms (FindLiveObjects: 0.213083 ms CreateObjectMapping: 0.194512 ms MarkObjects: 1.682187 ms  DeleteObjects: 0.065489 ms)
+
+start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.134675 ms
+
+Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 8.295599 ms (FindLiveObjects: 0.085037 ms CreateObjectMapping: 0.103609 ms MarkObjects: 0.794176 ms  DeleteObjects: 7.311309 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.353276 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.661732 ms (FindLiveObjects: 0.054737 ms CreateObjectMapping: 0.094323 ms MarkObjects: 0.498498 ms  DeleteObjects: 0.013195 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.780421 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.801507 ms (FindLiveObjects: 0.052293 ms CreateObjectMapping: 0.060113 ms MarkObjects: 0.591844 ms  DeleteObjects: 0.096278 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.639250 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.405640 ms (FindLiveObjects: 0.036654 ms CreateObjectMapping: 0.032255 ms MarkObjects: 0.327933 ms  DeleteObjects: 0.007330 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.701807 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.601619 ms (FindLiveObjects: 0.067932 ms CreateObjectMapping: 0.042030 ms MarkObjects: 0.456468 ms  DeleteObjects: 0.033721 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1514 -> priority: 1 
+  Thread -> id: bb4 -> priority: 1 
